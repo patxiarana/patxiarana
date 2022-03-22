@@ -20,7 +20,7 @@ estudie desarrollo web full stack en el bootcamp de soy henry donde aprendi una 
 
 # Contacto:
 https://www.linkedin.com/in/patxi-arana/
-
+www.patxiarana05@gmail.com
 
 
 
