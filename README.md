@@ -4,8 +4,9 @@
 
 
  # Hola Mundo!!!
-mi nombre es patxi arana, 
-desarrollador web fullstack  ✒️ tengo 27 años y en estos tiempos de pandemia revivi un viejo amor como lo era la programacion 💻 me gustan los videojuegos, el anime, y el deporte, sobre todo el futbol.
+mi nombre es patxi arana . 
+Desarrollador web fullstack  ✒️ 
+En estos tiempos de pandemia revivi un viejo amor como lo era la programacion 💻 me gustan los videojuegos, el anime, y el deporte, sobre todo el futbol.
 estudie desarrollo web full stack en el bootcamp de soy henry donde aprendi una variedad de lenguajes y herramientas.
 # lenguajes y herramientas:
 ![image](https://user-images.githubusercontent.com/90577230/158084961-9ff15f87-0d50-42fa-a348-48c21111c66d.png) html 5.
