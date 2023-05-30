@@ -4,7 +4,7 @@
 
 
  # Hola Mundo!!!
-mi nombre es patxi arana . 
+Mi nombre es Patxi Arana . 
 Desarrollador web fullstack  ✒️ 
 En estos tiempos de pandemia revivi un viejo amor como lo era la programacion 💻 me gustan los videojuegos, el anime, y el deporte, sobre todo el futbol.
 estudie desarrollo web full stack en el bootcamp de soy henry donde aprendi una variedad de lenguajes y herramientas.
