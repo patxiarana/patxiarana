@@ -3,12 +3,9 @@
 
 
 
- # Hola Mundo!!!
-Mi nombre es Patxi Arana . 
-Desarrollador web fullstack  ✒️ 
-En estos tiempos de pandemia revivi un viejo amor como lo era la programacion 💻 me gustan los videojuegos, el anime, y el deporte, sobre todo el futbol.
-estudie desarrollo web full stack en el bootcamp de soy henry donde aprendi una variedad de lenguajes y herramientas.
-# lenguajes y herramientas:
+ # Hello, world!!!
+My name is Patxi Arana. I am a full-stack web developer ✒️. Since the pandemic, I rekindled an old love for programming 💻. I enjoy video games, anime, and sports, especially football. I studied full-stack web development at the Soy Henry bootcamp, where I learned a variety of languages and tools.
+# Languages and tools:
 ![image](https://user-images.githubusercontent.com/90577230/158084961-9ff15f87-0d50-42fa-a348-48c21111c66d.png) html 5.
 ![image](https://user-images.githubusercontent.com/90577230/158085174-c5bec289-ca1d-4c01-a306-7e43331f82aa.png) react.js
 <img src="https://camo.githubusercontent.com/b4ff7f14956d1e50e56f37992f87c6a73166345ea928b6dbe1140db457b9707b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3130323470782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width = "50" heigth = "50" /> javascript 
@@ -19,7 +16,7 @@ estudie desarrollo web full stack en el bootcamp de soy henry donde aprendi una 
 ![image](https://user-images.githubusercontent.com/90577230/158087986-4b4b687e-b960-44a5-ba24-bbceb9a57a98.png) sequelize
 <img src ="https://th.bing.com/th/id/OIP.pXrq6xy_Gxua3qTfGZLXqwHaKc?pid=ImgDet&rs=1" width = "50" heigth = "50" /> css
 
-# Contacto:
+# Contact:
 https://www.linkedin.com/in/patxi-arana/
 www.patxiarana05@gmail.com
 
