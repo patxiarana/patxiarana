@@ -4,7 +4,7 @@
 
 
  # Hello, world!!!
-My name is Patxi Arana. I am a full-stack web developer ✒️. Since the pandemic, I rekindled an old love for programming 💻. I enjoy video games, anime, and sports, especially football. I studied full-stack web development at the Soy Henry bootcamp, where I learned a variety of languages and tools.
+Hello, I'm Patxi Arana. I'm a passionate Full Stack Web Developer with a strong desire to excel in the IT industry. I embarked on a journey into the world of programming during the pandemic, reigniting my deep-seated love for coding 💻. Apart from programming, I find joy in playing video games, exploring anime, and indulging in sports, particularly football. I honed my skills in Full Stack Web Development through rigorous training at the Soy Henry bootcamp, where I gained expertise in a diverse range of languages and tools. I'm constantly driven by curiosity and strive to create innovative solutions in the ever-evolving realm of technology
 # Languages and tools:
 ![image](https://user-images.githubusercontent.com/90577230/158084961-9ff15f87-0d50-42fa-a348-48c21111c66d.png) html 5.
 ![image](https://user-images.githubusercontent.com/90577230/158085174-c5bec289-ca1d-4c01-a306-7e43331f82aa.png) react.js
